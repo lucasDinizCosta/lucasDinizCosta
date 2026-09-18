@@ -11,7 +11,7 @@ Fullstack Developer with **4+ years of professional experience** building scalab
 - 💻 Specialized in **Web & Mobile development** (React & React Native)
 - 🟢 Strong background in **Node.js, PostgreSQL, and AWS**
 - 🐳 Deepening knowledge in **Docker, DevOps, and backend architecture**
-- 🌎 Open to **international and remote opportunities**
+- 🌎 Open to **international, national and remote opportunities**
 
 ---
 
@@ -49,24 +49,14 @@ Fullstack Developer with **4+ years of professional experience** building scalab
 - 🏗️ System Design & Scalable Backend Architecture
 
 ---
-
+<!--
 ## 📌 Featured Projects
 
 - 🔗 **[Project Name 1](https://github.com/lucasDinizCosta/repo-name)** — Brief 1-line description of what this app does and the tech stack used.
 - 🔗 **[Project Name 2](https://github.com/lucasDinizCosta/repo-name)** — Brief 1-line description of the cloud/DevOps architecture implemented.
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/lucasDinizCosta">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=lucasDinizCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasDinizCosta&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</div>
-
----
+-->
 
 ## 📫 Connect with Me
 
@@ -81,6 +71,20 @@ Fullstack Developer with **4+ years of professional experience** building scalab
 
 <br />
 
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github.com/lucasDinizCosta/lucasDinizCosta/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <a href="https://github.com/lucasDinizCosta">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=lucasDinizCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasDinizCosta&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <p>🐍 <b>Contribution Snake</b> — <i>A snake eating through my commit activity, updated daily via GitHub Actions.</i></p>
+  <img src="https://github.com/lucasDinizCosta/lucasDinizCosta/blob/output/github-contribution-grid-snake.svg" alt="Snake contribution animation"/>
 </div>
