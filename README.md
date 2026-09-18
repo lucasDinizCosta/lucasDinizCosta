@@ -8,10 +8,16 @@ Fullstack Developer with **4+ years of professional experience** building scalab
 
 ## 🚀 About Me
 
-- 💻 Specialized in **Web & Mobile development** (React & React Native)
-- 🟢 Strong background in **Node.js, PostgreSQL, and AWS**
-- 🐳 Deepening knowledge in **Docker, DevOps, and backend architecture**
-- 🌎 Open to **international, national and remote opportunities**
+- 💼 Fullstack Engineer at Acuttis, a SaaS company focused on workforce
+  management and electronic time tracking
+- 💻 Developing web and mobile applications with React and React Native
+- ⚙️ Building and integrating backend services and HTTP APIs with Node.js
+  and TypeScript
+- 🗄️ Working with PostgreSQL, SQL, data modeling and database migrations
+- ☁️ Practical experience with AWS-based application infrastructure
+- 📱 Interested in mobile reliability, authentication and offline-capable flows
+- 🧱 Currently deepening my knowledge of Docker, CI/CD and system design
+- 🌎 Open to remote opportunities in Brazil and internationally
 
 ---
 
@@ -83,8 +89,9 @@ Fullstack Developer with **4+ years of professional experience** building scalab
 </div>
 
 <br />
-
+<!--
 <div align="center">
   <p>🐍 <b>Contribution Snake</b> — <i>A snake eating through my commit activity, updated daily via GitHub Actions.</i></p>
   <img src="https://github.com/lucasDinizCosta/lucasDinizCosta/blob/output/github-contribution-grid-snake.svg" alt="Snake contribution animation"/>
 </div>
+-->
