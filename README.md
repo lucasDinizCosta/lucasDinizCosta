@@ -79,6 +79,7 @@ Fullstack Developer with **4+ years of professional experience** building scalab
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -89,7 +90,7 @@ Fullstack Developer with **4+ years of professional experience** building scalab
 </div>
 
 <br />
-<!--
+
 <div align="center">
   <p>🐍 <b>Contribution Snake</b> — <i>A snake eating through my commit activity, updated daily via GitHub Actions.</i></p>
   <img src="https://github.com/lucasDinizCosta/lucasDinizCosta/blob/output/github-contribution-grid-snake.svg" alt="Snake contribution animation"/>
